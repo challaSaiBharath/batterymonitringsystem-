@@ -1,0 +1,5 @@
+{
+  "name": "BattGuard - Battery Health Monitor",
+  "description": "A professional battery monitoring and health prediction dashboard with real-time sensor trends and system alerts.",
+  "requestFramePermissions": []
+}
